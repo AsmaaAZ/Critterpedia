@@ -1,5 +1,6 @@
 package com.udacity.jdnd.course3.critter;
 
+import com.rollbar.notifier.Rollbar;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
